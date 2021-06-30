@@ -11,7 +11,7 @@
  The projects listed are done using Python, NumPy,and PyTorch:
  
  
- - <b>Project 1: Predicting Bike-Sharing Patterns</b>
+ - <b>[Project 1: Predicting Bike-Sharing Patterns](https://github.com/Monirah-99/Deep-learning-Nanodegree-Program/tree/main/Predicting%20Bike%20Sharing%20Patterns)</b>
   
       Build and train neural networks from scratch to predict the number of bike-share users on a given day. This project is done by training a multi-layer neural network, and use it to analyze real data 
 
